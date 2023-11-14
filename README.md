@@ -1,7 +1,7 @@
 # Data Structures and Algorithms Projects
 
 ## Data Structures and Algorithms Path 
-Learning data structures and algorithms is crucial for individuals interested in computer science and programming.This path aims to help you in your learning journey, 
+Learning data structures and algorithms is crucial for individuals interested in computer science and programming. This path aims to help you in your learning journey, 
 covering everything from the basics of data structures to their different types and their relationship with algorithms. Additionally, we will delve into the most significant algorithms that are commonly used.
 
 
