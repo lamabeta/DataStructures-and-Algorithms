@@ -36,9 +36,8 @@ DSAProject02 | [Introduction to Algorithms](https://github.com/lamabeta/Introduc
 ### Table of Content
 
 | Resource ID  | Resource Title            | Type   | Issue ID  | Deadline  |
-| ------------ | ------------------------- | ------ | --------- | --------- |
-| SDAResource01| [Data Structures using Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J)|  playlist   |     #2      |    23 Nov  |
+| ------------ | ------------------------- | ------ | ------- | --------- |
+| SDAResource01 | [Data Structures using Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J) | playlist | https://github.com/lamabeta/DataStructures-and-Algorithms/issues/2 | 23 Nov |
 
 ### Submitting Process
-
 After completing a resource, you must click on the `Issue ID` and report your feedback.
