@@ -25,9 +25,9 @@ DSAProject01 | [Introduction to Data Structures](https://github.com/lamabeta/Int
 DSAProject02 | [Introduction to Algorithms](https://github.com/lamabeta/Introduction-to-algorithms/tree/main) |	19 Nov
 
 ### Submitting Process
-1. Fork the project repository.
-2. Make your changes to the project template.
-3. Submit a pull/merge request.
+- Fork the project repository.
+- Make your changes to the project template.
+- Submit a pull/merge request.
 > All questions and concerns regarding the projects share it using github issues.
 
 
@@ -35,9 +35,9 @@ DSAProject02 | [Introduction to Algorithms](https://github.com/lamabeta/Introduc
 
 ### Table of Content
 
-| Resource ID  | Resource Title | Type   | Issue ID  | Deadline  |
-| ------------ | -------------- | ------ | --------- | --------- |
-| SDAResource01|                |        |           |           |
+| Resource ID  | Resource Title            | Type   | Issue ID  | Deadline  |
+| ------------ | ------------------------- | ------ | --------- | --------- |
+| SDAResource01| [Data Structures using Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J)|  playlist   |     #2      |    23 Nov  |
 
 ### Submitting Process
 
