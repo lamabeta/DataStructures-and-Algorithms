@@ -3,7 +3,7 @@
 ## Introducation
 Learning data structures and algorithms is crucial for individuals interested in computer science and programming. This path aims to help you in your learning journey, 
 covering everything from the basics of data structures to their different types and their relationship with algorithms. Additionally, we will delve into the most significant algorithms that are commonly used.
-> This path is divided into resource stack that will cover the mian concepts related to the path itself,
+> This path is divided into resource stack that will cover the main concepts related to the path itself,
 > and project stack which helps validate your understanding of these concepts.
 
 
